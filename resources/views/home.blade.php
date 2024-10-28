@@ -177,23 +177,6 @@
                             <div class="card cstm-card">
                                 <div class="card-body">
                                     <div class="d-flex justify-content-between">
-                                        <i class="fa fa-money fa-4x text-success"></i>
-                                        <div class="text-right text-secondary">
-                                            <h5>Expenses</h5>
-                                            <h3><!- home many ? -!></h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card-footer text-secondary">
-                                    <i class="fa fa-refresh mr-3"></i>
-                                    <span>Update Now</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-xl-3 p-2">
-                            <div class="card cstm-card">
-                                <div class="card-body">
-                                    <div class="d-flex justify-content-between">
                                         <i class="fa fa-users fa-4x text-info"></i>
                                         <div class="text-right text-secondary">
                                             <h5>Users</h5>

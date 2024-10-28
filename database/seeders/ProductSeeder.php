@@ -28,15 +28,5 @@ class ProductSeeder extends Seeder
             'description' => 'description2',
             'price' => 100 
         ]);
-        Product::create([
-            'name' => 'product3',
-            'description' => 'description3',
-            'price' => 100 
-        ]);
-        Product::create([
-            'name' => 'product4',
-            'description' => 'description4',
-            'price' => 100 
-        ]);
     }
 }
