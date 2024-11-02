@@ -23,10 +23,10 @@ This project is a simple e-commerce management system built with **Laravel 10**.
     php artisan migrate --seed
     **Note: The seeders include an Admin user to access the dashboard.**
 
-# Seeding Data
+# Seeding Data:
 The database seeder creates the following initial data:
-    Admin User: Can be accessed with the credentials set in the AdminSeeder.
-    Sample Categories and Products: To populate the e-commerce catalog.
+    **Admin User:** Can be accessed with the credentials set in the AdminSeeder.
+    **Sample Categories and Products:** To populate the e-commerce catalog.
 
 ----------------------------------------------------------------
 ## Models and Relationships
